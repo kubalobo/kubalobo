@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working mostly on my PhD. \
+It's about the Simulator of Indoor Navigation. Created in Unreal Engine and based on 3D DigitalTwin models of Warsaw University of Technology. The goal is to make a platform for testing indoor navigation technologies.
+
 <!--
 **kubalobo/kubalobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
